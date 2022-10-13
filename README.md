@@ -1,6 +1,6 @@
 ![Hi!](https://user-images.githubusercontent.com/103468156/195479141-52c887b0-c031-468c-829d-5b0d480acce6.png)
 
-👋Hi there, I am Gheral and I am a junior React JS Frontend developer. Every day I prepare a lot to perfect my skills because I am passionate about this world.
+👋 Hi everyone. My name is Gheral, I am electronic and telecommunications engineer and a Junior React JS Frontend Developer. Every day I prepare more and more in order to improve my skills, I really passionate this world
 
 ## About me 
 💻 Electronics and Telecommunications Engineer
