@@ -1,13 +1,13 @@
 ![Hi!](https://user-images.githubusercontent.com/103468156/195479141-52c887b0-c031-468c-829d-5b0d480acce6.png)
 
-👋 Hi everyone. My name is Gheral, I am electronic and telecommunications engineer and a Junior React JS Frontend Developer. Every day I prepare more and more in order to improve my skills, I really passionate this world
+👋 Hi everyone. My name is Gheral, I am electronic and telecommunications engineer and a Full Stack Developer MERN. Every day I prepare more and more in order to improve my skills, I really passionate this world
 
 ## About me 
 💻 Electronics and Telecommunications Engineer
 
 📚 Experience in project management
 
-👾 Junior React JS Frontend developer
+👾 Full Stack MERN Developer - MongoDB, Express, React y Node.js
 
 ## Languages and tools
    [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="" width="24">](https://es.reactjs.org/) 
