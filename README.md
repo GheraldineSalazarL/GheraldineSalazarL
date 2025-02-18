@@ -1,4 +1,4 @@
-![Hi!](https://user-images.githubusercontent.com/103468156/195479141-52c887b0-c031-468c-829d-5b0d480acce6.png)
+![Image](https://github.com/user-attachments/assets/19f6420d-1cdc-4b50-ba6c-dd333f28fe33)
 
 👋 Hi everyone. My name is Gheral, I am electronic and telecommunications engineer and a Full Stack Developer MERN. Every day I prepare more and more in order to improve my skills, I really passionate this world
 
